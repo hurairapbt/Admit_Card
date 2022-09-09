@@ -1,0 +1,203 @@
+*{
+  
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body{
+	background-size:cover;
+	background-position:center;
+}
+	
+.container{
+    width: 1000px;
+    height: 600px;
+    background-color: rgb(158, 211, 251);
+    margin:auto;
+    line-height: 0.5;
+   
+}
+
+.container h3{
+  margin-right: 23%;
+  text-align: center;
+
+}
+.afc{
+    padding-top: 25px;
+    text-align: center;
+    margin-left: 125px;
+   
+}
+.ph{
+    float: right;
+    height: 17%;
+    width: 10%;
+    margin-right: 48px;
+    margin-top: 45px;
+    border-style: solid ;
+    border-color: black;
+    font-size: x-large;
+    font-weight: bolder;
+    background: transparent;
+}
+.admit{
+    margin-left: 15% ;
+    width: 200px;
+    height: 55px;
+    border: 3px;
+    border-style: solid ;
+    border-color: black;
+    border-radius: 11px;
+    font-size: x-large;
+    font-weight: bolder;
+    background: transparent;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.img-1{
+    width: 220px;
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 40px;
+}
+.tab-1{
+    width: 90%;
+    align-items: center;
+    border-collapse: collapse;
+    height: 100px;
+    margin-left: 50px;
+    border-color: black;
+    font-size: 1.2em;
+    font-weight: bold;
+   
+    
+}
+
+.tab-2{
+    margin-top: 15px;
+    width: 90%;
+    border-collapse: collapse;
+    height: 200px;
+    margin-left: 50px;
+    border-color: black;
+    font-size: large;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.d-1{
+    background-color: rgba(137, 145, 154, 0.199);
+    font-weight: bold;
+    text-align: center;
+}
+.d-2{
+    background-color: rgba(137, 145, 154, 0.199);
+    text-align: center;
+    font-weight: bold;
+}
+
+.sign-1{
+    list-style: none;
+    float: left;
+    line-height: 1.2;
+}
+.sign-2{
+    list-style: none;
+    float: right;
+    line-height: 1.2;
+}
+
+.hr-1{
+    border: none;
+    background-color: black;
+    width: 120px;
+    height: 2px;
+    float: left;
+    margin-top: 3em;
+    margin-left: 10.5em;
+}
+.hr-2{
+    border: none;
+    background-color: black;
+    width: 120px;
+    height: 2px;
+    float: right;
+    margin-top: 3em;
+    margin-right: 13.5em;
+}
+.li-1{
+    margin-left: 11.2em;
+    width: auto;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.li-2{
+    margin-left: 11.2em;
+    width: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+.li-3{
+    margin-left: 0.6em;
+    width: auto;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.li-4{
+    margin-left: 0.6em;
+    width: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+footer{
+    background-color: navy;
+    width: auto;
+    height: 45px;
+    margin-top: 15px;
+    font-family: sans-serif;
+}
+.ft{
+    color: white;
+    text-align: center;
+    font-size: 2em;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 1px;
+}
+
+
+
+.fa-facebook{
+    color: white;
+    padding-top: 5px;
+    
+}
+.fa-facebook:hover{
+    color: rgb(235, 87, 19);
+    transition: 0.5s;
+}
+
+
+.print{
+    width: 200px;
+    height: 40px;
+    border: 1px;
+    border-radius: 10px;
+    background-color: rgb(102, 214, 243);
+    font-weight: bold;
+    font-size: larger;
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+    
+}
+.print:hover{
+    background-color: rgb(97, 200, 240);
+    transition: 0.5s;
+}
+.btn{
+    padding-top: 11px;
+  margin-left: 70%;
+}
